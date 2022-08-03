@@ -1,0 +1,11 @@
+{
+  "parent": "brute:custom/epee_de_feu",
+  "textures": {
+    "0": "brute:blocks/jaune_fonce",
+    "1": "brute:blocks/jaune",
+    "2": "brute:blocks/orange_fonce",
+    "3": "brute:blocks/orange_clair",
+    "4": "brute:blocks/blanc",
+    "particle": "brute:items/gerg"
+  }
+}

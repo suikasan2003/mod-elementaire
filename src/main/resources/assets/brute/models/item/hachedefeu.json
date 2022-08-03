@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "brute:items/hache_de_feu2"
+  }
+}

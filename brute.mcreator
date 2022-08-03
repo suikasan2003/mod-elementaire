@@ -1,0 +1,60 @@
+{
+  "mod_elements": [
+    {
+      "name": "Epeedefeu",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epeedefeu"
+    },
+    {
+      "name": "Hachedefeu",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hachedefeu"
+    },
+    {
+      "name": "Piochedefeu",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochedefeu"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.brute.epeedefeu": "Epeedefeu",
+      "item.brute.piochedefeu": "Piochedefeu",
+      "item.brute.hachedefeu": "Hachedefeu"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "brute",
+    "modName": "brute",
+    "version": "1.0.0",
+    "author": "samuel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.brute",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

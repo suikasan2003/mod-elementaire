@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "jaune_fonce",
+        "1": "jaune",
+        "2": "orange_fonce",
+        "3": "orange_clair",
+        "4": "blanc"
+      },
+      "name": "default"
+    }
+  }
+}
